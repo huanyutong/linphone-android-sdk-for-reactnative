@@ -38,7 +38,7 @@ dependencies {
 //    androidTestImplementation 'com.android.support.test:runner:1.0.2'
 //    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
     embed(name:'sipsdk', ext:'aar')
-    embed(name:'linphone-sdk-android-4.3.0', ext:'aar')
+//    embed(name:'linphone-sdk-android-4.3.0', ext:'aar')
 }
 
 buildscript {
