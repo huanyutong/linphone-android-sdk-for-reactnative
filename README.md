@@ -1,1 +1,0 @@
-# linphone-android-sdk-for-reactnative
